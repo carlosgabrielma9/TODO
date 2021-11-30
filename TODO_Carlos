@@ -3,3 +3,4 @@ Fazer o check se dois cpfs são iguais durante a criação/edição de benefici�
 Separar os services e store de cliente e contrato
 Implementar uma função para travar os botões de salvar form enquanto a requisição não for resolvida
 Refinar tabela de eventos
+Implementar eventos de erro para as funções de contrato
