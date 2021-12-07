@@ -6,3 +6,4 @@ Refinar tabela de eventos
 Implementar eventos de erro para as funções de contrato
 ponto ao inves de virgula
 Distribuição, texto errado
+Deslogar automaticamente caso o usuário que voce edite seja você mesmo
