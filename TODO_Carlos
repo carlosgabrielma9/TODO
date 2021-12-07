@@ -1,5 +1,4 @@
 Separar os services e store de cliente e contrato
 Implementar uma função para travar os botões de salvar form enquanto a requisição não for resolvida
 Refinar tabela de eventos
-Deslogar automaticamente caso o usuário que voce edite seja você mesmo
 Editar cliente na aba contrato
