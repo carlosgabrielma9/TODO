@@ -1,6 +1,5 @@
 Separar os services e store de cliente e contrato
 Refinar tabela de eventos
-Editar cliente na aba contrato
 Classe genérica para tabelas de listágem
 Ajeitar responsividade
 Resolver confusão do container cliente
